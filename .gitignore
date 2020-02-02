@@ -235,6 +235,7 @@ dmypy.json
 
 
 # Custom ignores
+.vscode/
 *.snap
 *-lock.json
-.vscode/
+*.tar
