@@ -1,0 +1,14 @@
+{
+  "name": "http-echo-server",
+  "version": "1.0.0",
+  "description": "Simple Express echo server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Sebastian",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
