@@ -14,7 +14,7 @@ Inside the root dir execute the following:
 After the snap is installed, it can be executed with the `mtpc` command.
 
 #### FAQ
-Q: Multipass fails with `exit code 2.`.  
+Q: Multipass fails with `exit code 2.`  
 A: Check you have the right permissions.
 
 Q: Multipass hangs/timeout.  
