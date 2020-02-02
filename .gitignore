@@ -232,3 +232,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+# Custom ignores
+*.snap
+*-lock.json
+.vscode/
