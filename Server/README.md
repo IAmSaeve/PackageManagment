@@ -14,4 +14,4 @@ When inside the root dir execute the following:
 
 **NB: "seb" can be any name**
 
-To inspect echos received, `docker attach ContainerID` can be used.
+To inspect echos received, `docker attach <ContainerID>` can be used.
